@@ -1,0 +1,4 @@
+The Ocean Sampling Day application can be found in the following URL:
+
+https://osdshinyapp.shinyapps.io/OceanSamplingDay/
+
